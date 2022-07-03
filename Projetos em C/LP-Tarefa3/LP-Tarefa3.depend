@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1652046217 source:d:\atividades linguagem de programação\lp-tarefa3\main.c
+	<stdlib.h>
+
+1652061444 source:d:\atividades linguagem de programação\lp-tarefa3\exercicio2.c
+	<stdlib.h>
+
+1652063541 source:d:\atividades linguagem de programação\lp-tarefa3\exercicio3.c
+	<stdlib.h>
+
+1652064522 source:d:\atividades linguagem de programação\lp-tarefa3\exercicio4.c
+	<stdio.h>
+	<stdlib.h>
+

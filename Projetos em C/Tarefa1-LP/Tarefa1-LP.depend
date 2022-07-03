@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1647826319 source:d:\fatec-tarefas\tarefa1-lp\main.c
+	<stdlib.h>
+	<limits.h>
+
+1647834438 source:d:\fatec-tarefas\tarefa1-lp\exercicio2.c
+	<stdlib.h>
+	<limits.h>
+
+1647904544 source:d:\fatec-tarefas\tarefa1-lp\exercicio3.c
+	<stdlib.h>
+	<limits.h>
+
+1647994271 source:d:\fatec-tarefas\tarefa1-lp\exercicio-b.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

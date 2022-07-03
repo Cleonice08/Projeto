@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1655652325 source:d:\atividades linguagem de programação\projeto-lp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<string.h>
+
+1655652325 source:d:\atividades linguagem de programação\projetofinal-6-lp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<string.h>
+

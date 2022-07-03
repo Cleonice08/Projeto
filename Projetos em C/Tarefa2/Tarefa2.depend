@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1649619009 source:d:\atividades linguagem de programação\tarefa2\main.c
+	<stdlib.h>
+	<limits.h>
+
+1649621699 source:d:\atividades linguagem de programação\tarefa2\exercicio_2.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
